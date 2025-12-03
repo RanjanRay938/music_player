@@ -29,10 +29,9 @@ python music_playlist_app.py
 ```
 
 Example output:
+<img width="1291" height="853" alt="image" src="https://github.com/user-attachments/assets/fd38c60f-578b-4ea4-be06-08a0676a001d" />
+<img width="777" height="717" alt="image" src="https://github.com/user-attachments/assets/d7786613-e429-4c03-b0e4-fa65c9fa58a4" />
 
-<img width="1291" height="877" alt="image" src="https://github.com/user-attachments/assets/bca94877-2914-4475-815a-2095e051bafe" />
-<img width="1045" height="888" alt="image" src="https://github.com/user-attachments/assets/6842bb75-004e-48d0-9347-06057bacd43b" />
-<img width="838" height="735" alt="image" src="https://github.com/user-attachments/assets/483414cb-f41a-4d16-b841-f7460d553597" />
 
 
 
